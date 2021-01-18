@@ -1,0 +1,65 @@
+#portraitimg {
+    min-width: 220px;
+    max-width: 85%;
+    max-height: 220px;
+}
+
+.people{
+	box-sizing: border-box;
+    padding-bottom: 20px;
+    padding-top:10px;
+    padding-left:15px;
+}
+
+#people1{
+    float:left;
+	min-width:150px;
+    max-width:100%;
+	min-height: 130px;
+	max-height: 220px;
+    padding-right:10px;
+    padding-bottom: 5px;
+	
+}
+#people2{
+	min-width:400px;
+    max-width:100%;
+	min-height:220px;
+	padding-bottom: 5px;
+}
+
+#peopleBio {
+    word-wrap: break-word;
+    max-width:800px;
+    color: #373737;
+    font-family: Arial;
+}
+
+/* This is for Matt's box only*/
+.PI {
+    width: 900px;
+    height: 390px;  
+    padding: 50px;
+    box-sizing: border-box;
+    background-color: #666663;
+}
+
+#PIbox {
+    margin:auto;
+    background-color:#545454;
+    padding-left:10px;
+    padding-top:15px;
+    padding-right:30px;
+    padding-bottom: 15px;
+}
+#PI11{
+      float:left;
+      width:290px;
+      padding: 10px;
+      text-align: center;
+  }
+#PI12{
+      float:left;
+      width:530;
+      padding: 10px ;  
+  }
